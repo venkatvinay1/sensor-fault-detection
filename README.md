@@ -57,7 +57,7 @@ conda activate sensor
 
 ### Step 3 - Install the requirements
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt   
 ```
 
 ### Step 4 - Export the environment variable
@@ -72,7 +72,7 @@ export MONGODB_URL="mongodb+srv://<username>:<password>@ineuron-ai-projects.7eh1
 
 ```
 
-### Step 5 - Run the application server
+### Step 5 - Run the application server   
 ```bash
 python app.py
 ```
